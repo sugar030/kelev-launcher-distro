@@ -1,0 +1,24 @@
+{
+  "$schema": "file:///C:/Users/seol_/Desktop/%EB%9F%B0%EC%B2%98%EB%AA%A8%EC%9D%8C/%EB%9F%B0%EC%B2%98%EA%B0%9C%EB%B0%9C/nebula-root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "신들의전쟁",
+    "description": "신들의전쟁 팀전 미니게임 서버. 양털 팀 선택 후 심장을 지켜라!",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "kelev.kro.kr:25565",
+    "mainServer": true,
+    "autoconnect": true,
+    "javaOptions": {
+      "supported": ">=25",
+      "suggestedMajor": 25,
+      "ram": {
+        "recommended": 4096,
+        "minimum": 2048
+      }
+    }
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}
