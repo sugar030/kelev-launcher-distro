@@ -7,7 +7,7 @@
       "description": "신들의전쟁 팀전 미니게임 서버. 양털 팀 선택 후 심장을 지켜라!",
       "icon": "https://raw.githubusercontent.com/sugar030/kelev-launcher-distro/main/servers/GodWar-26.1.2/GodWar-26.1.2.jpg",
       "version": "1.0.0",
-      "address": "kelev.kro.kr:25565",
+      "address": "192.168.0.6:25565",
       "minecraftVersion": "26.1.2",
       "mainServer": true,
       "autoconnect": true,
@@ -193,9 +193,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 81,
+            "size": 86,
             "url": "https://raw.githubusercontent.com/sugar030/kelev-launcher-distro/main/servers/GodWar-26.1.2/files/servers.dat",
-            "MD5": "fc164e1f575ea3734b8d2b4af8763cae",
+            "MD5": "3897c57a726571ea46cf9a01a45bef58",
             "path": "servers.dat"
           }
         }
