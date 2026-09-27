@@ -5,7 +5,7 @@
     "name": "신들의전쟁",
     "description": "신들의전쟁 팀전 미니게임 서버. 양털 팀 선택 후 심장을 지켜라!",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "192.168.0.6:25565",
+    "address": "kelev.kro.kr:25565",
     "mainServer": true,
     "autoconnect": true,
     "javaOptions": {
